@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CoreMVC-Demo
+/CoreMVC-Demo/bin/Debug/netcoreapp3.1
+/CoreMVC-Demo/obj
